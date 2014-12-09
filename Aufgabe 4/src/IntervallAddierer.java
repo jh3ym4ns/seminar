@@ -1,4 +1,4 @@
-public class Intervall {
+public class IntervallAddierer {
 
 	Integer addiereVonBis(Integer von, Integer bis) {
 		Integer summe = 0;

@@ -3,7 +3,7 @@ public class Application {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		Intervall intervall = new Intervall();
+		IntervallAddierer intervall = new IntervallAddierer();
 		Integer von = 2;
 		Integer bis = 5;
 		Integer ergebnis;
